@@ -5,7 +5,6 @@ TipCalc - A simple and quick tip calculator and bill splitter
 Key features:
 
 * Simple user interface
-* Quick calculation from widget
 * Common tip rates and custom
 * Bill split
 * Round to integer with different rules
