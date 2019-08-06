@@ -1,6 +1,6 @@
-# TipCalculatorPro
+# TipCalc
 
-TipCalculatorPro - A simple and quick tip calculator and bill splitter
+TipCalc - A simple and quick tip calculator and bill splitter
 
 Key features:
 
